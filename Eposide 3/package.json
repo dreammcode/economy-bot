@@ -1,0 +1,17 @@
+{
+  "name": "economy-bot",
+  "version": "0.0.1",
+  "description": "The Best Economy Bot",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "quick.db": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Dream Code And Dream Code Family",
+  "license": "ISC"
+}
